@@ -1,4 +1,4 @@
--- Learning Data Cleaning Using SQL Queris.
+-- Learning Data Cleaning Using SQL Queries.
 
 Select *
 From PortfolioProject.dbo.NashvilleHousing
